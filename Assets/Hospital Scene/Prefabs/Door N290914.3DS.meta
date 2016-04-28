@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 0d3bc692e2a0843b39915cda031b3be3
+timeCreated: 1461456948
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: glass
+    100004: korobka
+    100006: 'nalichnik '
+    100008: nalichnik0
+    100010: nalichnik1
+    100012: polotno
+    100014: ramka
+    100016: ruchka
+    400000: //RootNode
+    400002: glass
+    400004: korobka
+    400006: 'nalichnik '
+    400008: nalichnik0
+    400010: nalichnik1
+    400012: polotno
+    400014: ramka
+    400016: ruchka
+    2300000: glass
+    2300002: korobka
+    2300004: 'nalichnik '
+    2300006: nalichnik0
+    2300008: nalichnik1
+    2300010: polotno
+    2300012: ramka
+    2300014: ruchka
+    3300000: glass
+    3300002: korobka
+    3300004: 'nalichnik '
+    3300006: nalichnik0
+    3300008: nalichnik1
+    3300010: polotno
+    3300012: ramka
+    3300014: ruchka
+    4300000: ramka
+    4300002: korobka
+    4300004: glass
+    4300006: polotno
+    4300008: ruchka
+    4300010: 'nalichnik '
+    4300012: nalichnik1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
