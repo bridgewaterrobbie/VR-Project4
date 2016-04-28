@@ -8,6 +8,7 @@ public class PlayMovie : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		Debug.Log (GameController.isDriving);
 		Renderer r = GetComponent<Renderer>();
 		movie = (MovieTexture)r.material.mainTexture;
 		audio = GetComponent<AudioSource>();
@@ -16,12 +17,11 @@ public class PlayMovie : MonoBehaviour {
 
 	void PlayMyClip()
 	{    
-		Debug.Log ("Called once");
 		// Play clip
 		movie.Play();
 		audio.Play ();
 		// Wait for the clip to finish
-		StartCoroutine(Wait(64.4f, OnWaitFinished)); 
+		StartCoroutine(Wait(63.5f, OnWaitFinished)); 
 	}
 
 	private void OnWaitFinished()
